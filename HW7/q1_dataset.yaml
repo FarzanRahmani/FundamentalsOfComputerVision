@@ -1,0 +1,8 @@
+train: /content/dataset/images/training/
+val: /content/dataset/images/validation/
+
+# number of classes
+nc: 1
+
+# class names
+names: ['SolarPanel']
